@@ -1,0 +1,10 @@
+{
+  "name": "7858a753-ef22-4423-945b-46289d10d0e5",
+  "displayName": "Ticket Logger",
+  "description": "Creates a ticket in the IT service desk ticketing system given an issue description and the employees corporate alias.",
+  "openApiSpec": {
+  
+  },
+  "schemas": [ "submitIssue" ],
+  "toolType": "CUSTOMIZED_TOOL"
+}
